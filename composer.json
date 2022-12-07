@@ -1,0 +1,13 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "authors": [{
+        "name": "Teodor Kaminski"
+    }],
+    "license": "MIT",
+    "require": {
+        "j4mie/idiorm": "1.3"
+    }
+   
+}
